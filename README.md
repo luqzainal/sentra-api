@@ -42,4 +42,4 @@ npm start
 
 ## 📞 Support
 
-Check logs di DigitalOcean dashboard untuk troubleshooting. 
+Check logs di DigitalOcean dashboard untuk troubleshooting.
